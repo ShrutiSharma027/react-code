@@ -1,0 +1,361 @@
+
+body{
+  overflow-x:hidden ;
+}
+.bg-img {
+  background-image: url('https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/1.jpg');
+  height: calc(100vh - 60px);
+}
+
+.bgimage {
+  background-image: url('https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/1.jpg');
+  height: calc(100vh - 10px);
+}
+
+.center-text {
+  height: 100px;
+}
+
+.image {
+  background-image: url('https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/1.jpg');
+  height: calc(100vh - 60px);
+  position: relative;
+  z-index: 0;
+  background-color: #777;
+}
+
+.img {
+  width: 100%;
+  z-index: 0;
+}
+
+.text-over-img {
+  z-index: 1;
+  font-size: 1.2em;
+  margin-top: -100px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.border-left {
+  border-left: 2px solid #8c89a2
+}
+
+.hv {
+  height: calc(100vh - 60px);
+  color: #fff;
+  text-align: center;
+  max-width: 600px;
+}
+
+.hv h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.fav {
+  color: #0354cc;
+  line-height: 60px;
+  font-size: 30px;
+}
+
+.font {
+  font-family: sans-serif;
+}
+
+.color {
+  color: #777
+}
+
+.bg-dark {
+  color: #fff;
+}
+
+.back {
+  background-color: #0354cc;
+  opacity: 0.6;
+  height: 500px;
+}
+
+.ninth {
+  background: url("https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/4.jpg") no-repeat center;
+  height: 500px;
+}
+
+.font {
+  font-size: 39px;
+  color: white;
+}
+
+.para {
+  font-size: 15px;
+}
+
+.cont {
+  background-color: #f9f9f9;
+}
+
+.first-back {
+  background-color: rgba(0, 0, 0, 4);
+}
+
+.fifth {
+  background: url("https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/5.jpg");
+}
+
+.history-info {
+  position: absolute;
+  bottom: -58px;
+  left: 0%;
+  right: 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.about-img {
+  background: url("https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/2.jpg");
+  height: 100px;
+}
+
+.visa {
+  background: url("https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/6.jpg");
+  height: 100px;
+}
+
+.details {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-bottom: 70px;
+}
+
+.sec-col {
+  color: #0354cc;
+}
+
+/* .bg{
+  background-color: #f8f9fa;
+} */
+.about-inner {
+  background: url(../images/2.jpg) no-repeat center;
+  padding: 30px 0px 30px;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  position: relative;
+  display: grid;
+  align-items: center;
+  text-align: center;
+  z-index: 0;
+}
+
+.twice_two {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 20px;
+}
+
+#w31name input {
+  order: 1px solid #dedede;
+  background: #f8f9fa;
+  color: #777;
+  font-size: 16px;
+  padding: 12px 15px;
+  width: 100%;
+  border-radius: 4px;
+  height: 55px;
+}
+
+.twice {
+  margin-bottom: 20px;
+}
+
+/* .w31message{
+  border: 1px solid #dedede;
+  background: #f8f9fa;
+  color: #777;
+  font-size: 16px;
+  padding: 12px 15px;
+  width: 100%;
+  border-radius: 4px;
+  height: 55px;
+} */
+textarea {
+  resize: none;
+  min-height: 140px;
+}
+
+button.btn-contact {
+  border: none;
+  font-size: 16px;
+  padding: 15px 30px;
+  margin: 20px auto 0;
+  color: #fff;
+  background: #21abf9;
+  border-color: #21abf9;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 6px;
+  /* float: right; */
+}
+
+.im {
+  background: url("https://p.w3layouts.com/demos_new/template_demo/29-04-2020/easy_cash-liberty-demo_Free/1955832306/web/assets/images/6.jpg") no-repeat center;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+  height: 500px;
+
+}
+
+p {
+  color: #ababab;
+  font-size: 16px;
+}
+
+.h2 {
+  font-size: 2rem;
+  color: white
+}
+
+
+
+/* About page CSS */
+
+
+.fontt {
+  font-size: 46px;
+  color: #ffffff;
+  vertical-align: top;
+  line-height: 56px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.bank {
+  /* padding-bottom: 25px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 35px;
+  color: #ffffff;
+  display: flex; */
+  display: grid;
+  grid-template-columns: 15% auto auto;
+  grid-gap: 10px;
+  align-items: center;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 35px;
+  color: #ffffff;
+
+}
+
+.icon-span {
+  width: 60px;
+  background-color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  height: 60px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.txt-right {
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.margin {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  /* font-weight: 500; */
+  line-height: 1.5;
+  /* color: #fff; */
+}
+
+.down {
+  font-size: 22px;
+  color: #ffffff;
+  line-height: 30px;
+  font-weight: 500;
+  padding-top: 25px;
+}
+
+/* .at-grid{
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+} */
+.at-grid:hover .at-social {
+  opacity: 1;
+}
+
+.at-column {
+  z-index: 0;
+  position: relative;
+  background: #FFF;
+  box-shadow: 0 0 0 1px #E2E9ED;
+  padding: 10px;
+}
+
+.at-user {
+  /* position: absolute; */
+  top: 50%;
+  left: 0;
+  width: 100%;
+  /* transform: translate(0, -50%); */
+  text-align: center;
+}
+
+.user-name {
+  font-size: 20px;
+}
+
+.at-social {
+  margin: 0 0 -18px;
+  opacity: 0;
+  transition: margin 0.2s ease, opacity 0.2s ease;
+}
+
+.at-social li a {
+  display: inline-block;
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  line-height: 30px;
+  text-align: center;
+  background: #3b5998;
+}
+
+
+.item {
+  display: inline-block;
+}
+
+.user-avatar img {
+  width: 98px;
+  height: 98px;
+  border-radius: 100%;
+  margin: 0 auto 20px;
+  overflow: hidden;
+}
+
+.icon {
+  color: white;
+}
